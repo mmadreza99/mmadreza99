@@ -2,9 +2,6 @@
 #### I'm a back-end web developer from IRAN ,Semnan, Garmsar
 
 
-![](https://everyday.codes/wp-content/uploads/2019/12/newpythonlogo.png)
-
-
 Skills: Python / Django/ linux / HTML / CSS
 
 - 🔭 I’m currently working on my skill 
