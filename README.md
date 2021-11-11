@@ -22,7 +22,6 @@ Skills: Python / Django/ linux / HTML / CSS
 
 </p>
 
-***
 
 <p>
 <a href="https://www.python.com" target="_blank"> <img src="https://www.python.org/static/img/python-logo.png"/> </a>
