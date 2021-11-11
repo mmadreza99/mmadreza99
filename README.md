@@ -21,7 +21,7 @@ Skills: Python / Django/ linux / HTML / CSS
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
 
 </p>
-
+<a href="https://en.wikipedia.org/wiki/Django_(web_framework)" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/185px-Django_logo.svg.png"/> </a>
 ***
 ### Social information
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mmadreza99) 
