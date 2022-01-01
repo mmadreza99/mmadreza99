@@ -1,5 +1,5 @@
 ### Hi there 👋, my nickname is mini mohandes
-#### I'm a back-end web developer from IRAN ,Semnan, Garmsar
+#### I'm a back-end web developer from IRAN ,Tehran
 
 
 Skills: Python / Django/ linux / HTML / CSS
