@@ -2,9 +2,9 @@
 #### I'm a back-end web developer from IRAN ,Tehran
 
 
-Skills: Python / Django/ linux / HTML / CSS
+Skills: Python / Django/ linux 
 
-- 🔭 I’m currently working on my skill 
+- 🔭 I’m currently working on ITteam 
 - 🌱 I’m currently learning python, linux 
 - 👯 I’m looking to collaborate on other developers 
 - 📫 How to reach me: mohammad78t@gmail.com 
