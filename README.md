@@ -29,7 +29,7 @@ Skills: Python / Django/ linux
 
 ### Social information
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mmadreza99) 
-[<img src='https://img.icons8.com/fluent/48/000000/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/mohammadreza-taslimi/)
+[<img src='https://img.icons8.com/fluent/48/000000/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/mohammadreza-taslimi-9b65b71a1)
 [<img src='https://img.icons8.com/fluent/48/000000/instagram-new.png' alt='instagram' height='40'>](https://www.instagram.com/mmadreza_r/)  
 
 ***
