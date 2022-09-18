@@ -4,7 +4,7 @@
 
 Skills: Python / Django/ linux 
 
-- 🔭 I’m currently working on ITteam 
+- 🔭 I’m currently working on SabzeParsa
 - 🌱 I’m currently learning python, linux, javascript
 - 👯 I’m looking to collaborate on other developers 
 - 📫 How to reach me: mohammad78t@gmail.com 
